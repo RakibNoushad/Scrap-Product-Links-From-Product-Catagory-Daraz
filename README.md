@@ -4,4 +4,8 @@
 
 ![CategoryPageDaraz](https://user-images.githubusercontent.com/53535816/75112150-190d1a80-566b-11ea-9a5c-1e1b065a7962.JPG)
 
-This is one of the Category Page of Daraz. Our code will scrap individual product list from given category page like this.
+This is one of the Category Page of Daraz. Our code will scrap all the individual product link from given category page like this.
+
+**So how to run it.**
+1. Python 3.6 or higher installed.
+2. Dajahal
