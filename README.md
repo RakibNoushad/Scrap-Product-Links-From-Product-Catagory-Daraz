@@ -8,5 +8,5 @@ This is one of the Category Page of Daraz. Our code will scrap all the individua
 
 **So how to run it.**
 1. Python 3.6 or higher installed.
-2. Install the dependency using pip install -r requirement.txt
+2. Install the dependency using ~~pip install -r requirement.txt~~
 3. Now download the code and run
